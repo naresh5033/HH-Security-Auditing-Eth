@@ -87,7 +87,6 @@ PRs welcome to improve the list.
 - [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
   - Consensys blog on security vulnerabilities. Also [check out their tools.](https://consensys.net/diligence/tools/)
 - [Chainlink X Certik Blog on Security](https://www.certik.com/resources/blog/technology/top-10-defi-security-best-practices)
-  - I helped write this. 😊
 - [More attacks](https://consensys.github.io/smart-contract-best-practices/attacks/denial-of-service/)
 
 # Getting Started
